@@ -1,0 +1,13 @@
+{
+  "name": "rg-soudure",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site vitrine RG Soudure - soudure, fabrication et unite mobile au Saguenay-Lac-Saint-Jean.",
+  "scripts": {
+    "dev": "serve -l 4321 .",
+    "start": "serve -l 4321 ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
